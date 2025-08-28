@@ -13,4 +13,4 @@
 ## 三、环境启动
 1、修改application.yml相关配置。
 2、执行SeckillApplication.java的main方法，启动 SpringBoot 项目。
-3、访问http://localhost:8080/login/toLogin，输入测试账号（如手机号13300000000，密码12345），登录后进入商品列表页。
+3、访问`http://localhost:8080/login/toLogin`，输入测试账号（如手机号13300000000，密码12345），登录后进入商品列表页。
